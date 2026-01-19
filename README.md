@@ -24,8 +24,8 @@ The dataset includes:
 - **Method**: In-store, Online, and Outlet.
 
 ##  How to Use
-1. Download the `.pbix` file to view the visual dashboard.
-2. Use the `.xlsx` file for your own custom analysis.
+Download the `.pbix` file to view the visual dashboard.
 
-   ## Dashboard Overview
+
+## Dashboard Overview
    <img width="1498" height="809" alt="image" src="https://github.com/user-attachments/assets/a3ff9ac2-3438-40cd-8f3a-d065b576b0b9" />
